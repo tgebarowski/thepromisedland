@@ -47,14 +47,18 @@ What if this code, could be simply transformed to:
 carthage update --platform iOS
 ```
 
-and then using Xcode 10 +
+and then compile with Xcode 10+
+
+# Presentation
+
+This project was created for the purpose of "The promised land" presentation, which content can be found [here](https://github.com/tgebarowski/thepromisedland/blob/master/Presentation/thepromisedland.md).
 
 
 # References
 
 This Demo project demonstrates a design pattern based on Promises, Request Behaviours and Child View Controllers.
 
-Inspired and based on great work from Soroush Khanlou, http://khanlou.com
-http://khanlou.com/2017/01/request-behaviors/]
-http://khanlou.com/2016/02/many-controllers/
-https://github.com/khanlou/Promise
+Inspired and based on great work from [Soroush Khanlou](http://khanlou.com)
+* http://khanlou.com/2017/01/request-behaviors/]
+* http://khanlou.com/2016/02/many-controllers/
+* https://github.com/khanlou/Promise
