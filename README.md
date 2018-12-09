@@ -54,7 +54,7 @@ and then using Xcode 10 +
 
 This Demo project demonstrates a design pattern based on Promises, Request Behaviours and Child View Controllers.
 
-Inspired and based on great work from [Soroush Khanlou]: http://khanlou.com
-[http://khanlou.com/2017/01/request-behaviors/]: http://khanlou.com/2017/01/request-behaviors/]
-[http://khanlou.com/2016/02/many-controllers/]: http://khanlou.com/2016/02/many-controllers/
-[https://github.com/khanlou/Promise]: https://github.com/khanlou/Promise
+Inspired and based on great work from Soroush Khanlou, http://khanlou.com
+http://khanlou.com/2017/01/request-behaviors/]
+http://khanlou.com/2016/02/many-controllers/
+https://github.com/khanlou/Promise
